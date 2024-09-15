@@ -7,6 +7,12 @@ You will build upon the application we've developed during the lessons in this c
 
 You can clone this repo to run the project locally, or navigate to the workspace in the Udacity course.
 
+## scipt: npm run dev or npm start
+
+## EB_URL: http://udacity-nd9990-cloud-developer-project-0.us-east-1.elasticbeanstalk.com/
+
+## test_EB_URL: http://udacity-nd9990-cloud-developer-project-0.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.britannica.com/59/182359-050-C6F38CA3/Scarlett-Johansson-Natasha-Romanoff-Avengers-Age-of.jpg
+
 ## Project Instructions
 
 To complete this project, you will need to:
